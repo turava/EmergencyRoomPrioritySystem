@@ -37,10 +37,6 @@ The system ensures efficient and fair management of patient attention in critica
    ```bash
    cd emergency-room-priority-system
    ```
-3. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ---
 
