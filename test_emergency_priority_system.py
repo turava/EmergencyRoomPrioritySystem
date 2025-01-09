@@ -1,5 +1,5 @@
 import unittest
-from emergency_pryority_system import Paciente, SalaEmergencias, logger
+from emergency_priority_system import Paciente, SalaEmergencias, logger
 
 class TestSalaEmergencias(unittest.TestCase):
 
